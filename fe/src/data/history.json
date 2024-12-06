@@ -1,0 +1,182 @@
+[
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E53C0>",
+    "feature": "Pronunciation",
+    "user_id": 1,
+    "output_data": "11111 ",
+    "input_data": "hello",
+    "id": 1,
+    "created_at": "2024-12-01 13:54:08.542240"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5300>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "Hello how are you doing?",
+    "input_data": "Hello how are you doing \n",
+    "id": 2,
+    "created_at": "2024-12-01 13:57:12.844694"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5240>",
+    "feature": "Talk",
+    "user_id": 1,
+    "output_data": "Hello! I'm doing well, thank you. How about you? How are you doing today?",
+    "input_data": "hello how are you",
+    "id": 3,
+    "created_at": "2024-12-01 13:57:56.588666"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5180>",
+    "feature": "Talk",
+    "user_id": 1,
+    "output_data": "I'm sorry to hear that. Could you please try saying \"I'm not doing well\"? Let's practice it together.",
+    "input_data": "i'm not going",
+    "id": 4,
+    "created_at": "2024-12-01 13:58:15.363358"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5120>",
+    "feature": "Pronunciation",
+    "user_id": 1,
+    "output_data": "01111 ",
+    "input_data": "Hello",
+    "id": 5,
+    "created_at": "2024-12-01 14:01:56.643806"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5000>",
+    "feature": "Pronunciation",
+    "user_id": 1,
+    "output_data": "00 ",
+    "input_data": "He",
+    "id": 6,
+    "created_at": "2024-12-01 14:02:14.556817"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4D00>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "Hello, my name is Minh.",
+    "input_data": "Hello my names are Minh",
+    "id": 7,
+    "created_at": "2024-12-01 14:25:07.415320"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4FA0>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "My name is Minh.",
+    "input_data": "my names are Minh.",
+    "id": 8,
+    "created_at": "2024-12-01 14:35:04.790242"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4EE0>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "My name is Minh.",
+    "input_data": "my names are Minh.",
+    "id": 9,
+    "created_at": "2024-12-01 14:36:22.787567"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4E20>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "My name is Minh.",
+    "input_data": "My names are Minh.",
+    "id": 10,
+    "created_at": "2024-12-01 14:37:12.737212"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E53C0>",
+    "feature": "Pronunciation",
+    "user_id": 1,
+    "output_data": "11111 ",
+    "input_data": "hello",
+    "id": 1,
+    "created_at": "2024-12-01 13:54:08.542240"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5300>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "Hello how are you doing?",
+    "input_data": "Hello how are you doing \n",
+    "id": 2,
+    "created_at": "2024-12-01 13:57:12.844694"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5240>",
+    "feature": "Talk",
+    "user_id": 1,
+    "output_data": "Hello! I'm doing well, thank you. How about you? How are you doing today?",
+    "input_data": "hello how are you",
+    "id": 3,
+    "created_at": "2024-12-01 13:57:56.588666"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5180>",
+    "feature": "Talk",
+    "user_id": 1,
+    "output_data": "I'm sorry to hear that. Could you please try saying \"I'm not doing well\"? Let's practice it together.",
+    "input_data": "i'm not going",
+    "id": 4,
+    "created_at": "2024-12-01 13:58:15.363358"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5120>",
+    "feature": "Pronunciation",
+    "user_id": 1,
+    "output_data": "01111 ",
+    "input_data": "Hello",
+    "id": 5,
+    "created_at": "2024-12-01 14:01:56.643806"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E5000>",
+    "feature": "Pronunciation",
+    "user_id": 1,
+    "output_data": "00 ",
+    "input_data": "He",
+    "id": 6,
+    "created_at": "2024-12-01 14:02:14.556817"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4D00>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "Hello, my name is Minh.",
+    "input_data": "Hello my names are Minh",
+    "id": 7,
+    "created_at": "2024-12-01 14:25:07.415320"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4FA0>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "My name is Minh.",
+    "input_data": "my names are Minh.",
+    "id": 8,
+    "created_at": "2024-12-01 14:35:04.790242"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4EE0>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "My name is Minh.",
+    "input_data": "my names are Minh.",
+    "id": 9,
+    "created_at": "2024-12-01 14:36:22.787567"
+  },
+  {
+    "_sa_instance_state": "<sqlalchemy.orm.state.InstanceState object at 0x000001D2A56E4E20>",
+    "feature": "Grammar",
+    "user_id": 1,
+    "output_data": "My name is Minh.",
+    "input_data": "My names are Minh.",
+    "id": 10,
+    "created_at": "2024-12-01 14:37:12.737212"
+  }
+]
