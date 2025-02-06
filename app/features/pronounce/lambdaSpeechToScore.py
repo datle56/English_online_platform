@@ -55,7 +55,6 @@ def compare_words(real_words, predicted_words):
     """
 
 
-    # predicted_words = WordMatching.align_predicted_to_real_with_placeholder(real_words, predicted_words)
     real_words =   real_words.lower()
 
     real_words = real_words.split()
